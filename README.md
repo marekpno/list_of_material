@@ -18,5 +18,12 @@ g) Open created data --> "test.xlsx"
    Must analized code, or try use datas included like examples.
 
 5. Who maintains and contributes to the project
-   Me and chatgpt ;)
+   I am.
+
+Below some pictures:
+<img src="https://github.com/marekpno/list_of_material/blob/master/data/1.JPG" alt="error">
+<img src="https://github.com/marekpno/list_of_material/blob/master/data/2.JPG" alt="error">
+<img src="https://github.com/marekpno/list_of_material/blob/master/data/3.JPG" alt="error">
+<img src="https://github.com/marekpno/list_of_material/blob/master/data/4.JPG" alt="error">
+<img src="https://github.com/marekpno/list_of_material/blob/master/data/5.JPG" alt="error">
    
